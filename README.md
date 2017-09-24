@@ -1,1 +1,1 @@
-A Series of Small Projects I am posting as I experiment and learn new features in Python and other languages.
+Experimenting with Python's TkInter library and learning some object oriented programming to create this basic Tic Tac Toe Game. Credit to sentdex (https://www.youtube.com/user/sentdex) for his TkInter tutorial and teaching me how to switch between TkInter Frames.
